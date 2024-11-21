@@ -1,4 +1,5 @@
-# 💫 About Me:
+<h1 align="center">💫 Hi there</h1>
+<h1 align="center">I'm Bekzod and junior full-stack developer</h1>
 - 👨🏻‍💻 I’m currently working on RealSoft<br>- 📚I’m currently learning Vue.js and Node.js<br>- 👨🏼‍🎓 Ask me about React<br>- 📫 How to reach me: https://www.instagram.com/_www.beka_?igsh=emdqMDhybHQzcGIx, https://t.me/www_beka
 
 
